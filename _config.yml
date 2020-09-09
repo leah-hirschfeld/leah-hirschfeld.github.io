@@ -1,11 +1,11 @@
 # Site settings
 author: Leah Hirschfeld
-title: 
+title: Journey into Software Engineering
 header-img: img/home-bg.png
 email: leah.hirschfeld@gmail.com
 copyright_name: Leah Hirschfeld
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Short tales of one woman's adventure into software engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  leah-hirschfeld
